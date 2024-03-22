@@ -1,7 +1,7 @@
 
 <div align=center>
 - 👋 Hi, I’m @Sirothpech
-<p>- 🌱 I'm currently learning the C language and I'm planning to learn Python and MySQL soon.</p>
+<p>- 🌱 I am currently in full stack development training.</p>
 - 📫 How to reach me christophe.ngan@gmail.com
 
 ## Tech Skills
