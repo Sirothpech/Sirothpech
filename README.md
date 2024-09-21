@@ -2,8 +2,10 @@
 <div align=center>
 - 👋 Hi, I’m @Sirothpech
 <p>- 🌱 I am currently in full stack development training.</p>
- <p><b>Software Engineer</b></p>
-- 📫 How to reach me christophe.ngan@gmail.com
+ <p><b>FULL STACK DEVELOPER</b></p>
+- <p>📫 How to reach me christophe.ngan@gmail.com</p>
+- <p>My Portfolio Website</p>
+https://christophe-ngan-portfolio.netlify.app/
 
 ## Tech Skills
 
